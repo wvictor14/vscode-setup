@@ -19,4 +19,6 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 
 Then add `plugins=(git zsh-syntax-highlighting)` to `.zshrc`
 
-Restart
+I like themes `nanotech`
+
+Restart zsh with `exec zsh`
